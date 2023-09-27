@@ -1,0 +1,20 @@
+{
+  "name": "automated-testing-web-performance",
+  "version": "1.0.0",
+  "description": "Perform automated web performance audit",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Al Auqash",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
+    "lighthouse": "^11.1.0",
+    "puppeteer": "^21.3.4"
+  }
+}
