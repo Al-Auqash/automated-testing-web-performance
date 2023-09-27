@@ -6,9 +6,6 @@ Thanks to [rizky.sasri](https://gitlab.com/rizki.sasri)
 
 Perform audit for WPIs supported by Lighthouse.
 
-# [Your Project Name]
-[Short project description here: A brief explanation of what your application does.]
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
